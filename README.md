@@ -30,6 +30,8 @@ gcc -Os -s main32768.c -o rijam32768
 gcc -Os -s main65536.c -o rijam65536
 ```
 
+You need atleast C99
+
 ## Usage
 
 ```bash
